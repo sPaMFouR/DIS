@@ -1,0 +1,124 @@
+Trip To Anthargange:-
+
+1) Received Cash From:- [Total == INR 3150]
+
+	Kshama - 400
+	Varun - 750
+	Joice - 400
+	Anwesh - 400
+	Shweta - 400
+	Megha - 400
+	Raghu - 400
+
+
+2) Food Expenses:- [Total == INR 3200, Average ~ INR 133.3 pp]
+
+	Sweet Boondi - 120 (Avinash)
+	Packaging - 240 (Avinash)
+	
+	Snacks + Raw Items For Dinner - 650 (Avinash)
+	Raju (For Making Dinner) - 600 (Avinash)
+	Bread - 50 (Nirmal)
+	
+	Water - 100 (Avinash)
+	Water - 100 (Sandeep)
+	Water - 110 (Panini)
+	Water - 100 (Prasannaa)
+	Water - 140 (Joice)
+	Water - 80 (Nirmal)
+
+	Breakfast - 190 + 30 (Avinash)
+	Breakfast - 690 (Prerna)
+
+3) Travel Expenses:- [Total == INR 6062, Average ~ INR 252.5 pp]
+
+	a) Train Tickets - 840 (Panini)
+
+	b) Cab & Auto Forward Journey: (Total - INR 1800)
+		Uber (Avinash) - 205
+		Uber (Rubi) - 200
+		Uber (Sandeep) - 167
+		Uber (Varun) - 203
+		Uber (Joice) - 200
+		Uber (Aritra) - 225
+
+		Auto - 360 (Avinash)
+		Auto - 120 (Ramya)
+		Auto - 120 (Prasannaa)
+	
+	c) Cab & Auto Return Journey: (Total - INR 1814)
+		Auto - 80 (Ramya)
+		Auto - 80 (Prasannaa)
+		Auto - 80 (Sneha)
+		Auto - 80 (Joice)
+		Auto - 60 (Nirmal)
+		Auto - 20 (Aritra)
+
+		Uber - 150 (Avinash)
+		Uber - 180 + 203 (Ramya)
+		Uber - 144 (Nirmal)
+		Uber - 130 (Kshama)
+		Uber - 203 (Rubi)
+		Uber - 180 (Sneha)
+		Uber - 224 (Varun)
+		
+	d) Bus Tickets - 1608 (Avinash)
+	
+4) Miscellaneous:- [Total == INR 2060, Average ~ INR 89.1 pp, Annu ~ INR 10)
+
+	Cave - 200 (Ramya)
+	Cave - 50 (Arun)
+	Tents & Sleeping Bags - 1810 (Avinash)
+
+
+
+#--------------------------------------------------------#
+Summary of Expenses:-
+#--------------------------------------------------------#
+Uber -- 1200 + 1414 = 2614
+Auto -- 1000
+Train -- 840
+Bus -- 1608
+
+Cave -- 250
+Tent -- 1810
+
+Water -- 630
+Breakfast -- 910
+Snacks + Dinner -- 650 + 600 + 50 + 120 = 1420
+Packaging - 240
+#--------------------------------------------------------#
+Total Expenditure === INR 11322
+#--------------------------------------------------------#
+
+
+5) Money Paid (In Cash + Paid During The Trip):-
+#-----------------------------------------------------------------------------------------------------------------#
+Person------------------------------------------Money_Paid------Expenses----------------------Amount_To_Be_Settled
+#-----------------------------------------------------------------------------------------------------------------#
+Annu 						= INR 0		- 386 + 10			= Pays INR 396	
+Kshama == 400 + 130 				= INR 530	- 386 + 89			= Gets INR 55
+Sneha == 180 + 80 				= INR 260	- 386 + 89			= Pays INR 215
+Varun & Bro == 750 + 203 + 224			= INR 1177	- 772 + 178			= Gets INR 227
+Aritra & Friend == 225 + 20			= INR 245	- 772 + 178			= Pays INR 705
+Nirmal = 50 + 80 + 60 + 144			= INR 334	- 386 + 89			= Pays INR 141
+Sireesha 					= INR 0		- 386 + 89			= Pays INR 475
+Joice == 400 + 140 + 200 + 80			= INR 820	- 386 + 89			= Gets INR 345
+Prerna 						= INR 690	- 386 + 89			= Gets INR 215
+Panini == 840 + 110				= INR 950	- 386 + 89			= Gets INR 475
+Prasannaa == 100 + 80 + 120			= INR 300	- 386 + 89			= Pays INR 175
+Sai 						= INR 0		- 386 + 89			= Pays INR 475
+Ramya == 120 + 80 + 180 + 203 + 200 - 100	= INR 683	- 386 + 89			= Gets INR 208
+Raghu 						= INR 400	- 386 + 89			= Pays INR 75
+Megha 						= INR 400	- 386 + 89			= Pays INR 75
+Rubi == 200 + 203				= INR 403	- 386 + 89			= Pays INR 72
+Arun 						= INR 50	- 386 + 89			= Pays INR 425
+Sandeep == 100 + 167				= INR 267	- 386 + 89			= Pays INR 208
+Shweta 						= INR 400	- 386 + 89			= Pays INR 75
+Anwesh 						= INR 400	- 386 + 89			= Pays INR 75
+Keerthana 					= INR 0		- 386 + 89			= Pays INR 475
+Avinash = 1250 + 680 + 1810 + 715 + 1608 + 100	= INR 6163	- 386 + 89 - 3150		= Gets INR 2538
+#---------------------------------------------------------------------------------------------------------------#
+Total-----------------------------------------------------------= INR 11,321--------------------= INR 1---------
+#---------------------------------------------------------------------------------------------------------------#
+

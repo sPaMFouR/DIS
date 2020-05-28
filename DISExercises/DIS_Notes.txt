@@ -1,0 +1,25 @@
+# Day 1 - February 13
+
+1) Use of Large Datasets:-
+	a) Find Patterns through Correlations 
+	b) Find Outliers in Populations
+	c) Model Fitting to Determine Physical Parameters
+
+2) Multidimensionality of Astronomical Data
+	a) Spatial Position: 3D, Angular Size: 2D, Velocity: 3D
+	b) Brightness
+	c) Spectroscopic - Multi-Wavelength
+	d) Polarisation - 4 Stokes Parameters
+	
+3) Finding Faint Signal
+	a) Accumulate Large Data
+	b) Average Data To Improve SNR
+
+4) Multivariate Correlations Brings Out Better Patterns
+
+5) Statistics - 1:-
+	a) Data Analytics - Patterns, Correlations, Classes, Meaning In Data 
+		1) Domain Knowledge
+		2) Mathematics
+		3) Statistics
+		
